@@ -1,6 +1,6 @@
 {
-  "name": "qciproject",
   "version": "0.1.0",
+  "name": "decide-tu-carrera", 
   "private": true,
   "dependencies": {
     "react": "^16.9.0",
